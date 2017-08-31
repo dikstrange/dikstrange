@@ -1,0 +1,5 @@
+	LD A,46H
+	LD B,10H
+	LD C,05H
+	HALT
+	.END	
